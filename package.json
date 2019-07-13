@@ -1,0 +1,18 @@
+{
+  "name": "test-aad-keyset",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "node": "node index.js",
+    "electron": "electron index.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "openid-client": "^3.2.2"
+  },
+  "devDependencies": {
+    "electron": "^6.0.0-beta.13"
+  }
+}
