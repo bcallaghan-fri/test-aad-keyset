@@ -55,7 +55,7 @@ npm run node
 ```
 
 ### Test with Electron
-This test should be run with Electron 6 or later (currently 6.0.0-beta.13)
+This test should be run with Electron 6 or later (currently 6.0.0-beta.15)
 ```
 npm run electron
 ```
