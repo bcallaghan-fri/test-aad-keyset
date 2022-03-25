@@ -13,6 +13,6 @@
     "openid-client": "^3.2.3"
   },
   "devDependencies": {
-    "electron": "^6.0.0-beta.15"
+    "electron": "^13.6.6"
   }
 }
